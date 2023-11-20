@@ -1,0 +1,9 @@
+# Ignore Git related files
+.git
+.terraform
+.terraform.lock.hcl
+
+# Ignore Terraform state files
+terraform.tfstate
+terraform.tfstate.backup
+
