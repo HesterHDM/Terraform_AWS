@@ -25,17 +25,17 @@ Before you begin, ensure you have the following:
 Initialize the Terraform working directory:
 
 
-Copy code
+
 terraform init
 Preview the changes:
 
 
-Copy code
+
 terraform plan
 Apply the Terraform configuration:
 
 
-Copy code
+
 terraform apply
 Enter 'yes' when prompted.
 
@@ -49,7 +49,7 @@ Clean Up
 To destroy the created resources after testing:
 
 
-Copy code
+
 terraform destroy
 Enter 'yes' when prompted.
 
